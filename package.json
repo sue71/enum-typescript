@@ -20,6 +20,7 @@
   ],
   "author": "sue71",
   "license": "MIT",
+  "typings": "./lib/Enum",
   "devDependencies": {
     "babel": "^6.5.2",
     "babel-polyfill": "^6.9.1",
