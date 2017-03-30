@@ -1,6 +1,6 @@
 {
   "name": "enum-typescript",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "a javascript library for enum",
   "main": "lib/Enum.js",
   "typings": "lib/Enum",
